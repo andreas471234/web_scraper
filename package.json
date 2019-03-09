@@ -1,0 +1,19 @@
+{
+  "name": "cermati_test",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andreas_bismo",
+  "license": "ISC",
+  "description": "a web promo scraper using node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreas471234/web_scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreas471234/web_scraper/issues"
+  },
+  "homepage": "https://github.com/andreas471234/web_scraper#readme"
+}
